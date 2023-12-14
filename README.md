@@ -37,7 +37,7 @@ Esquema de juego:
 
 ### Diseño:
 
-# Definición del diseño del videojuego: 
+#### Definición del diseño del videojuego: 
 
 Técnicas de gamificación: Recolección de los elementos como cristales para poder restaurar el respectivo ecosistema y así poder avanzar con el siguiente nivel generando expectativa.
 
